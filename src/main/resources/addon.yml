@@ -1,0 +1,5 @@
+name: AddonExample
+version: 1.0
+author: Sportkanone123
+description: A test addon.
+main: de.sportkanone123.addonexample.AddonExample
